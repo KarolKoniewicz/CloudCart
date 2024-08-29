@@ -6,7 +6,6 @@ C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Domai
 C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Domain\obj\Debug\net8.0\Ebiscon.CloudCart.Domain.AssemblyInfoInputs.cache
 C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Domain\obj\Debug\net8.0\Ebiscon.CloudCart.Domain.AssemblyInfo.cs
 C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Domain\obj\Debug\net8.0\Ebiscon.CloudCart.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Domain\obj\Debug\net8.0\Ebiscon.CloudCart.Domain.sourcelink.json
 C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Domain\obj\Debug\net8.0\Ebiscon.CloudCart.Domain.dll
 C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Domain\obj\Debug\net8.0\refint\Ebiscon.CloudCart.Domain.dll
 C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Domain\obj\Debug\net8.0\Ebiscon.CloudCart.Domain.pdb

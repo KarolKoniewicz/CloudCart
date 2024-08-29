@@ -34,11 +34,24 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
 app.UseAuthorization();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.UseEndpoints(endpoints =>
+{
+
+    _ = endpoints.MapGet("/", async context =>
+    {
+        context.Response.Redirect("/dashboard");
+    });
+
+    _ = endpoints.MapHangfireDashboard("/dashboard",
+        new DashboardOptions
+        {
+            DashboardTitle = "Job Dashboard",
+            DarkModeEnabled = true,
+            DefaultRecordsPerPage = 50,
+        });
+
+});
 
 app.Run();

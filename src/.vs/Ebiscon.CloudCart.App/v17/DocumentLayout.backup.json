@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}|Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj|c:\\users\\karol\\source\\repos\\ebiscon.cloudcart.webapi\\src\\ebiscon.cloudcart.workers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}|Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj|solutionrelative:ebiscon.cloudcart.workers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}|Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj|c:\\users\\karol\\source\\repos\\ebiscon.cloudcart.webapi\\src\\ebiscon.cloudcart.workers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}|Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj|solutionrelative:ebiscon.cloudcart.workers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}|Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj|c:\\users\\karol\\source\\repos\\ebiscon.cloudcart.webapi\\src\\ebiscon.cloudcart.workers\\workers\\configurations\\productsyncworkerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}|Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj|solutionrelative:ebiscon.cloudcart.workers\\workers\\configurations\\productsyncworkerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}|Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj|c:\\users\\karol\\source\\repos\\ebiscon.cloudcart.webapi\\src\\ebiscon.cloudcart.workers\\ebiscon.cloudcart.workers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}|Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj|solutionrelative:ebiscon.cloudcart.workers\\ebiscon.cloudcart.workers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Workers\\appsettings.json",
+              "RelativeDocumentMoniker": "Ebiscon.CloudCart.Workers\\appsettings.json",
+              "ToolTip": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Workers\\appsettings.json",
+              "RelativeToolTip": "Ebiscon.CloudCart.Workers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T09:04:54.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSyncWorkerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Workers\\Workers\\Configurations\\ProductSyncWorkerConfiguration.cs",
+              "RelativeDocumentMoniker": "Ebiscon.CloudCart.Workers\\Workers\\Configurations\\ProductSyncWorkerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Workers\\Workers\\Configurations\\ProductSyncWorkerConfiguration.cs",
+              "RelativeToolTip": "Ebiscon.CloudCart.Workers\\Workers\\Configurations\\ProductSyncWorkerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:03:52.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Workers\\Program.cs",
+              "RelativeDocumentMoniker": "Ebiscon.CloudCart.Workers\\Program.cs",
+              "ToolTip": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Workers\\Program.cs",
+              "RelativeToolTip": "Ebiscon.CloudCart.Workers\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:03:20.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ebiscon.CloudCart.Workers",
+              "DocumentMoniker": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj",
+              "RelativeDocumentMoniker": "Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj",
+              "ToolTip": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj",
+              "RelativeToolTip": "Ebiscon.CloudCart.Workers\\Ebiscon.CloudCart.Workers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T09:03:18.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

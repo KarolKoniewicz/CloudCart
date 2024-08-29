@@ -1,6 +1,5 @@
-﻿using STI.Workers.Constants;
+﻿using Ebiscon.CloudCart.Domain.Constants;
 using Ebiscon.CloudCart.Workers.Workers.Interfaces;
-using Ebiscon.CloudCart.Domain.Constants;
 
 namespace Ebiscon.CloudCart.Workers.Workers.Configurations;
 
