@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.Domain", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.WebAPI", "Ebiscon.CloudCart.WebAPI\Ebiscon.CloudCart.WebAPI.csproj", "{C6AB4BE7-80E1-4342-8709-BF4EE6B0C8AB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.DataAccess", "Ebiscon.CloudCart.DataAccess\Ebiscon.CloudCart.DataAccess.csproj", "{AC2E6B3F-A6D4-4487-850E-678751DB4055}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.Database", "Ebiscon.CloudCart.DataAccess\Ebiscon.CloudCart.Database.csproj", "{AC2E6B3F-A6D4-4487-850E-678751DB4055}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.Infrastructure", "Ebiscon.CloudCart.Infrastructure\Ebiscon.CloudCart.Infrastructure.csproj", "{6684BCAA-5A7A-447B-B008-8FEE91382C94}"
 EndProject

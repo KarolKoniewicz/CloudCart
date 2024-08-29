@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XUGKfpCmmlM=",
+  "dgSpecHash": "7gCGrSMG/hU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Domain\\Ebiscon.CloudCart.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Domain\\Ebiscon.CloudCart.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",
     "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.8\\microsoft.aspnetcore.cryptography.keyderivation.8.0.8.nupkg.sha512",

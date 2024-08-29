@@ -964,11 +964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Infrastructure\\Ebiscon.CloudCart.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Infrastructure\\Ebiscon.CloudCart.Infrastructure.csproj",
       "projectName": "Ebiscon.CloudCart.Infrastructure",
-      "projectPath": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Infrastructure\\Ebiscon.CloudCart.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Infrastructure\\Ebiscon.CloudCart.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
@@ -995,8 +995,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Application\\Ebiscon.CloudCart.Application.csproj": {
-              "projectPath": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Application\\Ebiscon.CloudCart.Application.csproj"
+            "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Application\\Ebiscon.CloudCart.Application.csproj": {
+              "projectPath": "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Application\\Ebiscon.CloudCart.Application.csproj"
             }
           }
         }

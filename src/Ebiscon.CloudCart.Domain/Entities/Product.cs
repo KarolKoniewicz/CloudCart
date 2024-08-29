@@ -10,4 +10,6 @@ public class Product : IDomainEntity<Guid>
     public decimal Price { get; set; }
     public DateTimeOffset CreatedOn { get; set; }
     public DateTimeOffset ModifiedOn { get; set; }
+
+    public ICollection<OrderProduct> OrderProducts { get; set; }
 }

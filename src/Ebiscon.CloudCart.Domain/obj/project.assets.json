@@ -822,11 +822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Domain\\Ebiscon.CloudCart.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Domain\\Ebiscon.CloudCart.Domain.csproj",
       "projectName": "Ebiscon.CloudCart.Domain",
-      "projectPath": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Domain\\Ebiscon.CloudCart.Domain.csproj",
+      "projectPath": "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Domain\\Ebiscon.CloudCart.Domain.csproj",
       "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karol\\source\\repos\\Ebiscon.CloudCart.WebAPI\\src\\Ebiscon.CloudCart.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",

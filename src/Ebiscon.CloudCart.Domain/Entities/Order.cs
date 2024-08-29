@@ -9,6 +9,7 @@ namespace Ebiscon.CloudCart.Domain.Entities
         public DateTimeOffset CreatedOn { get; set; }
         public DateTimeOffset ModifiedOn { get; set; }
 
+        public ICollection<OrderProduct> OrderProducts { get; set; }
         public ApplicationUser User { get; set; }
     }
 
