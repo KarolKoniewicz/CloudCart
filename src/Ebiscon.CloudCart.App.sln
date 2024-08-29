@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4EA35AF-22F7-4875-BFC1-7A581C5EE39D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7F983BDC-1217-4D00-A676-E5CD1D1EB5EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{742BB362-A7B4-4119-A16D-9A4C38F09756}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{2BB17E6F-30D3-4042-91FA-A78040D09D2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{CBAD6368-D142-4664-917F-20970C50BB1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{B03ACCC1-9C8B-4DE8-835E-6660CA1159B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistance", "Persistance", "{4260C8DB-5300-40EC-A9B1-A5C62A1D4936}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.Application", "Ebiscon.CloudCart.Application\Ebiscon.CloudCart.Application.csproj", "{C2BE938F-AF59-421C-A0AF-E37FDDB49CA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.Workers", "Ebiscon.CloudCart.Workers\Ebiscon.CloudCart.Workers.csproj", "{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.Domain", "Ebiscon.CloudCart.Domain\Ebiscon.CloudCart.Domain.csproj", "{C1D7C264-E769-4C71-BA1F-43938A2D77D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.WebAPI", "Ebiscon.CloudCart.WebAPI\Ebiscon.CloudCart.WebAPI.csproj", "{C6AB4BE7-80E1-4342-8709-BF4EE6B0C8AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.DataAccess", "Ebiscon.CloudCart.DataAccess\Ebiscon.CloudCart.DataAccess.csproj", "{AC2E6B3F-A6D4-4487-850E-678751DB4055}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ebiscon.CloudCart.Infrastructure", "Ebiscon.CloudCart.Infrastructure\Ebiscon.CloudCart.Infrastructure.csproj", "{6684BCAA-5A7A-447B-B008-8FEE91382C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2BE938F-AF59-421C-A0AF-E37FDDB49CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BE938F-AF59-421C-A0AF-E37FDDB49CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BE938F-AF59-421C-A0AF-E37FDDB49CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BE938F-AF59-421C-A0AF-E37FDDB49CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F815C3BD-5C6B-48C3-84CE-B8617589D5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D7C264-E769-4C71-BA1F-43938A2D77D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D7C264-E769-4C71-BA1F-43938A2D77D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D7C264-E769-4C71-BA1F-43938A2D77D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D7C264-E769-4C71-BA1F-43938A2D77D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AB4BE7-80E1-4342-8709-BF4EE6B0C8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AB4BE7-80E1-4342-8709-BF4EE6B0C8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AB4BE7-80E1-4342-8709-BF4EE6B0C8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AB4BE7-80E1-4342-8709-BF4EE6B0C8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2E6B3F-A6D4-4487-850E-678751DB4055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2E6B3F-A6D4-4487-850E-678751DB4055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2E6B3F-A6D4-4487-850E-678751DB4055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2E6B3F-A6D4-4487-850E-678751DB4055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6684BCAA-5A7A-447B-B008-8FEE91382C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6684BCAA-5A7A-447B-B008-8FEE91382C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6684BCAA-5A7A-447B-B008-8FEE91382C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6684BCAA-5A7A-447B-B008-8FEE91382C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{742BB362-A7B4-4119-A16D-9A4C38F09756} = {7F983BDC-1217-4D00-A676-E5CD1D1EB5EF}
+		{2BB17E6F-30D3-4042-91FA-A78040D09D2B} = {7F983BDC-1217-4D00-A676-E5CD1D1EB5EF}
+		{CBAD6368-D142-4664-917F-20970C50BB1D} = {7F983BDC-1217-4D00-A676-E5CD1D1EB5EF}
+		{B03ACCC1-9C8B-4DE8-835E-6660CA1159B8} = {7F983BDC-1217-4D00-A676-E5CD1D1EB5EF}
+		{4260C8DB-5300-40EC-A9B1-A5C62A1D4936} = {7F983BDC-1217-4D00-A676-E5CD1D1EB5EF}
+		{C2BE938F-AF59-421C-A0AF-E37FDDB49CA0} = {2BB17E6F-30D3-4042-91FA-A78040D09D2B}
+		{F815C3BD-5C6B-48C3-84CE-B8617589D5FE} = {2BB17E6F-30D3-4042-91FA-A78040D09D2B}
+		{C1D7C264-E769-4C71-BA1F-43938A2D77D1} = {CBAD6368-D142-4664-917F-20970C50BB1D}
+		{C6AB4BE7-80E1-4342-8709-BF4EE6B0C8AB} = {742BB362-A7B4-4119-A16D-9A4C38F09756}
+		{AC2E6B3F-A6D4-4487-850E-678751DB4055} = {4260C8DB-5300-40EC-A9B1-A5C62A1D4936}
+		{6684BCAA-5A7A-447B-B008-8FEE91382C94} = {B03ACCC1-9C8B-4DE8-835E-6660CA1159B8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EDFDD7D-BDA2-4BAC-BF87-A909ED5288CE}
+	EndGlobalSection
+EndGlobal

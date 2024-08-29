@@ -1,0 +1,8 @@
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Workers\obj\Debug\net8.0\Ebiscon.CloudCart.Workers.csproj.AssemblyReference.cache
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Workers\obj\Debug\net8.0\Ebiscon.CloudCart.Workers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Workers\obj\Debug\net8.0\Ebiscon.CloudCart.Workers.AssemblyInfoInputs.cache
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Workers\obj\Debug\net8.0\Ebiscon.CloudCart.Workers.AssemblyInfo.cs
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Workers\obj\Debug\net8.0\Ebiscon.CloudCart.Workers.csproj.CoreCompileInputs.cache
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Workers\obj\Debug\net8.0\Ebiscon.CloudCart.Workers.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Workers\obj\Debug\net8.0\Ebiscon.CloudCart.Workers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.Workers\obj\Debug\net8.0\Ebiscon.CloudCart.Workers.sourcelink.json

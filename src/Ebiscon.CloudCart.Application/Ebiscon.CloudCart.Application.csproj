@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Gatherings\**" />
+    <Compile Remove="Invitations\**" />
+    <Compile Remove="Members\**" />
+    <EmbeddedResource Remove="Gatherings\**" />
+    <EmbeddedResource Remove="Invitations\**" />
+    <EmbeddedResource Remove="Members\**" />
+    <None Remove="Gatherings\**" />
+    <None Remove="Invitations\**" />
+    <None Remove="Members\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ebiscon.CloudCart.Domain\Ebiscon.CloudCart.Domain.csproj" />
+  </ItemGroup>
+  
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\bin\Debug\net8.0\appsettings.json
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\bin\Debug\net8.0\Ebiscon.CloudCart.DataAccess.deps.json
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\bin\Debug\net8.0\Ebiscon.CloudCart.DataAccess.dll
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\bin\Debug\net8.0\Ebiscon.CloudCart.DataAccess.pdb
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\bin\Debug\net8.0\Ebiscon.CloudCart.Domain.dll
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\bin\Debug\net8.0\Ebiscon.CloudCart.Domain.pdb
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\Ebiscon.CloudCart.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\Ebiscon.CloudCart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\Ebiscon.CloudCart.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\Ebiscon.CloudCart.DataAccess.AssemblyInfo.cs
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\Ebiscon.CloudCart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\Ebiscon.CloudCart.DataAccess.sourcelink.json
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\Ebiscon..156A29D8.Up2Date
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\Ebiscon.CloudCart.DataAccess.dll
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\refint\Ebiscon.CloudCart.DataAccess.dll
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\Ebiscon.CloudCart.DataAccess.pdb
+C:\Users\Karol\source\repos\Ebiscon.CloudCart.WebAPI\src\Ebiscon.CloudCart.DataAccess\obj\Debug\net8.0\ref\Ebiscon.CloudCart.DataAccess.dll

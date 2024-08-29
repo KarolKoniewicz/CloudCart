@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D25WmF3fDzOk3slv2cUfnV/SjrA7BmRQRh8vRyEsWOY=",
+  "Source": "Ebiscon.CloudCart.WebAPI",
+  "BasePath": "_content/Ebiscon.CloudCart.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ebiscon.CloudCart.WebAPI.props" />
+</Project>
