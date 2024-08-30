@@ -11,6 +11,16 @@ namespace Ebiscon.CloudCart.Domain.Entities
 
         public ICollection<OrderProduct> OrderProducts { get; set; }
         public ApplicationUser User { get; set; }
+
+        public Order Create(ApplicationUser user)
+            => new()
+            {
+                Id = Guid.NewGuid(),
+                CreatedOn = DateTimeOffset.UtcNow,
+                ModifiedOn = DateTimeOffset.UtcNow,
+                User = user,
+                UserId = user.Id,
+            };
     }
 
 }

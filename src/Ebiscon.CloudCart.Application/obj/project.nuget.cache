@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "++5bIG2qfT0=",
+  "dgSpecHash": "IlpGpzec7jE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Karol\\source\\repos\\CloudCart\\src\\Ebiscon.CloudCart.Application\\Ebiscon.CloudCart.Application.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,8 @@
     "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
-    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

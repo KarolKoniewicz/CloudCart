@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ebiscon.CloudCart.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9d5003b4ee92000a8890200a7c95c75acc0a94a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78bc462d6e36f245c7654ea7768296cf62d58021")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ebiscon.CloudCart.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ebiscon.CloudCart.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

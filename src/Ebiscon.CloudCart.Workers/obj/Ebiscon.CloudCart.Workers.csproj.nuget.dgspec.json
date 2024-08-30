@@ -141,7 +141,7 @@
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
@@ -149,7 +149,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.7.3, )"
             }
           },
           "imports": [

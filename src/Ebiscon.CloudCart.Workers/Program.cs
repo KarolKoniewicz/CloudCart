@@ -8,14 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 
-var app = builder.Build();
-
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
-}
-
 builder.Services.AddHangfire((sp, conf) =>
 {
     var connectionString = sp.GetRequiredService<IConfiguration>()
@@ -26,6 +18,15 @@ builder.Services.AddHangfire((sp, conf) =>
 
 builder.Services.AddWorkerService();
 builder.Services.AddHangfireServer();
+
+
+var app = builder.Build();
+
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
+}
 
 app.Services.ScheduleRecurringJob<ProductSyncWorker, ProductSyncWorkerConfiguration>();
 

@@ -7,8 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.8" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ebiscon.CloudCart.Application\Ebiscon.CloudCart.Application.csproj" />
+    <ProjectReference Include="..\Ebiscon.CloudCart.Domain\Ebiscon.CloudCart.Domain.csproj" />
   </ItemGroup>
 
 </Project>
